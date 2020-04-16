@@ -1,0 +1,11 @@
+{
+  "name": "fakeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
